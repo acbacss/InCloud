@@ -1,0 +1,14 @@
+ad.qsdxb.com
+api.qsdxb.com
+ebox.ad.qsdxb.com
+ebox.qsdxb.com
+monitor.qsdxb.com
+pre.qsdxb.com
+preadmin.qsdxb.com
+sentinel.qsdxb.com
+shop.qsdxb.com
+sk.qsdxb.com
+skshop.qsdxb.com
+test.ad.qsdxb.com
+test.api.qsdxb.com
+www.qsdxb.com
